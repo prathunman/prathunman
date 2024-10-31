@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prathyunman</h1>
-<h3 align="center">I’m interested in web development</h3>
+<h3 align="center">I’m interested in Software engineering</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
